@@ -7,13 +7,13 @@ global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['919172673114']
-global.OwnerNumber = ['919172673114']
-global.ownertag = ['919172673114']
+global.Owner = ['2250501110437']
+global.OwnerNumber = ['2250501110437']
+global.ownertag = ['2250501110437']
 global.BotName = "Chizuru Mizuhara"
-global.packname = "Ox.Itachi < 3"
-global.author = "Say.Scotch"
-global.OwnerName = "Scotch"
+global.packname = "."
+global.author = "."
+global.OwnerName = "🥀⃞⃕𝙎𝙊𝙈𝘽𝙍𝙀༆𝘿𝘼𝙀𝙈𝙊𝙉⟫❦⃞᭄*"
 global.BotSourceCode = "Oops Sorry I can't give Error 404"
 global.SupportGroupLink = "https://chat.whatsapp.com/JBDzYnTIrawLBptciuMiFA"
 global.sessionName = "session"
